@@ -29,7 +29,7 @@
 ## 🎬 시연 영상
 
 <p align="center">
-  <a href="">
+  <a href="https://youtu.be/bEvH_hcpQ2w?si=mK_SqWORtcX_3JI5">
     <img src="./assets/thumbnail.png" alt="Demo Video" width="30%"/>
   </a>
 </p>
